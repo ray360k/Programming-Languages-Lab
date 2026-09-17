@@ -10,12 +10,12 @@
 
 This repository contains two separate exercises submitted together:
 
-1. [Names, Bindings and Scopes — Group 6: University Library Borrowing, Fines and Book-State Tracker](#1-names-bindings-and-scopes--group-6-university-library-borrowing-fines-and-book-state-tracker) (`library_system.cpp`)
+1. [Names, Bindings and Scopes — Group 16: University Library Borrowing, Fines and Book-State Tracker](#1-names-bindings-and-scopes--group-16-university-library-borrowing-fines-and-book-state-tracker) (`library_system.cpp`)
 2. [CCS 2105 — Question 16: Producer-Consumer Food Distribution System](#2-ccs-2105--question-16-producer-consumer-food-distribution-system) (`producer_consumer.lua`)
 
 ---
 
-## 1. Names, Bindings and Scopes — Group 6: University Library Borrowing, Fines and Book-State Tracker
+## 1. Names, Bindings and Scopes — Group 16: University Library Borrowing, Fines and Book-State Tracker
 
 **File:** `library_system.cpp`
 **Language:** C++17

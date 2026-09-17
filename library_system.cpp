@@ -1,6 +1,6 @@
 /*
  * =====================================================================================
- *  GROUP 6 — UNIVERSITY LIBRARY BORROWING, FINES AND BOOK-STATE TRACKER
+ *  GROUP 16 — UNIVERSITY LIBRARY BORROWING, FINES AND BOOK-STATE TRACKER
  *  Concepts demonstrated: Aliases | Pointers/References | Explicit heap-dynamic
  *                         storage | Lifetime | Scope vs Lifetime
  *
